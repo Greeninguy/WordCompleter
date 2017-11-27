@@ -1,0 +1,5 @@
+﻿  Project3.cpp
+c:\users\noxma\onedrive\school\fall17\cs3100\projects\project3\project3\project3\project3.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\noxma\onedrive\school\fall17\cs3100\projects\project3\project3\project3\project3.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\noxma\OneDrive\School\Fall17\CS3100\Projects\Project3\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\noxma\OneDrive\School\Fall17\CS3100\Projects\Project3\Project3\Debug\Project3.pdb (Partial PDB)
